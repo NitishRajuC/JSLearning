@@ -18,3 +18,13 @@ console.log(typeof city);
 
  //int salaryAmount = 50000;
 // String myName = "NC";        //strongyle tite type
+console.log("================================================================");
+var salary = null;
+console.log( typeof salary);
+
+salary = 4000;
+var typeofSalary = typeof salary;
+console.log('salary',salary, 'typeof salary' ,typeof salary);
+salary = 'forty Thousand';
+var salarytype = typeof salary;
+console.log('salary',salary ,'typeof salary', salarytype); 
