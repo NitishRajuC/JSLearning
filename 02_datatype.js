@@ -20,6 +20,8 @@ console.log(typeof city);
 // String myName = "NC";        //strongyle tite type
 console.log("================================================================");
 var salary = null;
+var salary1;
+console.log(typeof salary1);
 console.log( typeof salary);
 
 salary = 4000;
