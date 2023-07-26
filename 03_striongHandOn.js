@@ -30,7 +30,7 @@ function stringHandsOn(){
     console.log("=======================step10==========================");
     var startsWithHey = trimmedString.startsWith("Hey");
     console.log(`starts with hey: ${startsWithHey}`);
-    3
+    
 
     
 
